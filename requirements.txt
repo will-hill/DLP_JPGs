@@ -1,0 +1,8 @@
+jupyterlab
+pandas-gbq
+pandas
+matplotlib
+tqdm
+
+google-cloud-dlp
+google-cloud-storage
